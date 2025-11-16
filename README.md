@@ -39,7 +39,7 @@ Ce projet est open-source et fait partie de l'écosystème **O.V.E.R AI**.
 
 ### Fenêtre d'ajout d'un jeu
 
-![MainWindow](https://raw.githubusercontent.com/OVER-AI-DOMOTIQUE/Game-Launcher/private/screenshots/Add.png) 
+![MainWindow](https://raw.githubusercontent.com/OVER-AI-DOMOTIQUE/Game-Launcher/private/screenshots/Add.png)
 
 ## 📥 Installation
 

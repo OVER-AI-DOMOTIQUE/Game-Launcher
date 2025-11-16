@@ -45,7 +45,7 @@ Ce projet est open-source et fait partie de l'écosystème **O.V.E.R AI**.
 
 ### Option 1 -- Installeur
 
-👉 [**setup.exe**](https://github.com/OVER-AI-DOMOTIQUE/Game-Launcher/releases/download/V1.0/setup.exe)
+👉 [**setup.exe**]([https://github.com/OVER-AI-DOMOTIQUE/Game-Launcher/releases/download/V1.0/setup.exe](https://github.com/OVER-AI-DOMOTIQUE/Game-Launcher/releases/download/Game-Launcher/setup.exe)
 
 ### Option 2 -- Lancer directement
 
